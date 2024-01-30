@@ -1,3 +1,5 @@
+Forked to update the dependancies because of the critical security issues
+
 # VueHTML2PDF Documentation
 
 #### Package Github:
